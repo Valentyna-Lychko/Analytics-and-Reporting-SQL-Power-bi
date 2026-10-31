@@ -23,6 +23,8 @@ The analysis divides each performance vector into three balanced tiers, where a 
 *   LTV yield across specific Monetary score tiers.
 *   Comprehensive classification tables explaining what each segment code implies for business operations.
 
+👉 **[View clean SQL script for RFM segmentation and scoring](../rfm_segmentation_logic.sql)**
+
 ### 🖥️ Methodology Layout:
 ![RFM Info UKR](../Dashboard_Images/RFM_info_UKR.png)
 ![RFM Info ENG](../Dashboard_Images/RFM_info_ENG.png)
