@@ -9,7 +9,8 @@ Initial calculations, data consolidation, and aggregation were performed at the 
 *   **Customer Activity Metrics:** Computed exact first and last purchase dates for each unique customer, total successful order counts, total revenue generated (Monetary), individual purchasing time intervals, and the average order value (AOV) per client.
 *   **RFM Metrics Calculation:** Formulated baseline scoring for Recency, Frequency, and Monetary value. Based on these calculated scores, customers were automatically segmented into fixed business groups (`RFM_Group`).
 
-*Note: The complete SQL script is available as a separate file in the repository root.*
+*Note: The complete SQL script is available as a separate file in the repository root — **[full_analytics_processing.sql](../full_analytics_processing.sql)**.*
+
 
 ---
 
