@@ -22,6 +22,7 @@ This repository presents the data analytics and business intelligence work compl
 ---
 
 ## 🗂️ Repository Structure / Організація репозиторію
-*   📁 **`Dashboards/`** — містить повний аналітичний звіт у форматі PDF для швидкого перегляду / Contains the full analytical report in PDF format for quick preview.
-*   📁 **`Dashboard_Images/`** — скріншоти та інсайти сторінок дашбордів / Screenshots and insights of dashboard pages.
-*   📁 **`Visualizations-and-reports/`** — детальні посторінкові описи звітів обома мовами / Detailed page-by-page report documentation in both languages.
+*   📁 **[Dashboards/](Dashboards/)** — містить повний аналітичний звіт у форматі PDF для швидкого перегляду / Contains the full analytical report in PDF format for quick preview.
+*   📁 **[Dashboard_Images/](Dashboard_Images/)** — скріншоти та інсайти сторінок дашбордів / Screenshots and insights of dashboard pages.
+*   📁 **[Visualizations-and-reports/](Visualizations-and-reports/)** — детальні посторінкові описи звітів обома мовами / Detailed page-by-page report documentation in both languages.
+
