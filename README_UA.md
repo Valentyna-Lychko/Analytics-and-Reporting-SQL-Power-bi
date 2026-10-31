@@ -1,6 +1,6 @@
 # Analytics and Reporting (SQL & Power BI)
 
-[🇬🇧 Read in English](README_EN.md) | [👉 Переглянути повний звіт у форматі PDF](Dashboards/Full_Analytical_Report.pdf)
+[🇬🇧 Read in English](README_EN.md) | [👉 Переглянути повний звіт у форматі PDF](Dashboards/Smart_Touch_Cosmetics_Analytics_Dashboard_PDF.pdf)
 
 ## 📋 Опис проєкту
 Цей проєкт присвячений комплексній бізнес-аналітиці та побудові інтерактивної звітності для аналізу продажів, поведінки клієнтів та оцінки ефективності процесів утримання аудиторії. 
@@ -40,4 +40,4 @@
 *   **[Звіт 2. RFM-аналіз груп клієнтів](Visualizations-and-reports/report_2_details.md)** — поведінкова сегментація клієнтської бази (VIP, Stable, Recent, Passive) на основі балів Recency, Frequency, Monetary та глибокий аудит замовлень топ-клієнтів.
 *   **[Звіт 3. Залучення нових клієнтів та динаміка відтоку](Visualizations-and-reports/report_3_details.md)** — аналіз життєвого циклу аудиторії, чистий приріст клієнтів за періодами, оцінка Churn Rate та побудова прогнозного сценарію стабільності бази.
 
-*Примітка: Повний звіт, що містить усі бізнес-візуалізації з поясненнями та висновками, також доступний для швидкого перегляду у форматі [PDF-презентації](Dashboards/Full_Analytical_Report.pdf).*
+*Примітка: Повний звіт, що містить усі бізнес-візуалізації з поясненнями та висновками, також доступний для швидкого перегляду у форматі [PDF-презентації](Dashboards/Smart_Touch_Cosmetics_Analytics_Dashboard_PDF.pdf).*
