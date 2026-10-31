@@ -1,6 +1,6 @@
 # Analytics and Reporting (SQL & Power BI)
 
-[🇺🇦 Читати українською](README_UA.md) | [👉 View Full Analytical Report in PDF](Dashboards/Full_Analytical_Report.pdf)
+[🇺🇦 Читати українською](README_UA.md) | [👉 View Full Analytical Report in PDF](Dashboards/Smart_Touch_Cosmetics_Analytics_Dashboard_PDF.pdf)
 
 ## 📋 Project Overview
 This project focuses on comprehensive business analytics and interactive reporting to evaluate sales performance, analyze customer purchasing behavior, and monitor audience retention dynamics.
@@ -40,4 +40,4 @@ Each analytical block includes a page-by-page breakdown of the dashboards, compl
 *   **[Report 2. Customer RFM Analysis](Visualizations-and-reports/report_2_details.md)** — behavioral segmentation of the customer base (VIP, Stable, Recent, Passive) utilizing Recency, Frequency, and Monetary scoring, complemented by a deep-dive transaction audit of top-tier customers.
 *   **[Report 3. New Customer Acquisition and Churn Dynamics](Visualizations-and-reports/report_3_details.md)** — audience lifecycle tracking, net customer change across periods, Churn Rate evaluation, and a historical data-driven forecast scenario mapping database stability.
 
-*Note: The complete analytical report containing all business visualizations, explanations, and insights is also available for quick preview in [PDF Presentation Format](Dashboards/Full_Analytical_Report.pdf).*
+*Note: The complete analytical report containing all business visualizations, explanations, and insights is also available for quick preview in [PDF Presentation Format](Dashboards/Smart_Touch_Cosmetics_Analytics_Dashboard_PDF.pdf).*
