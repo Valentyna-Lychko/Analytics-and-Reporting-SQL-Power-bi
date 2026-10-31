@@ -23,6 +23,9 @@
 *   Показник LTV для кожного конкретного бала метрики Monetary.
 *   Повна класифікація за сегментами на основі комбінацій RFM-кодів, опис кожної групи та коди, що до неї входять.
 
+👉 **[Переглянути чистий SQL-код для розрахунку балів та RFM-сегментації](../rfm_segmentation_logic.sql)**
+
+
 ### 🖥️ Візуалізація методології:
 ![RFM Info UKR](../Dashboard_Images/RFM_info_UKR.png)
 ![RFM Info ENG](../Dashboard_Images/RFM_info_ENG.png)
