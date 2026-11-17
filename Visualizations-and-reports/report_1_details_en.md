@@ -5,6 +5,8 @@
 
 ---
 
+[Watch the dashboard video](https://github.com/Valentyna-Lychko/Analytics-and-Reporting-SQL-Power-bi/blob/main/Dashboards/Video_Report_1.mp4)
+
 ## 1. Target Audience and Revenue Overview
 
 **Smart Touch Cosmetics: Skincare Based on Adaptive Formulation**
