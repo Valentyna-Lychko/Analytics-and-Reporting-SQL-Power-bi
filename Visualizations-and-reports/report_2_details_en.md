@@ -4,6 +4,8 @@
 ![Full Report 2](../Dashboard_Images/Report_2.png)
 
 ---
+[Watch the dashboard video](https://github.com/Valentyna-Lychko/Analytics-and-Reporting-SQL-Power-bi/blob/main/Dashboards/Video_Report_1.mp4)
+
 
 ## 1. Methodology and Segmentation Boundaries
 
